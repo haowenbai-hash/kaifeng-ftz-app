@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 主色调：政务蓝 -->
+    <color name="primary_color">#1A5FAB</color>
+    <color name="primary_dark">#134A85</color>
+    <color name="primary_light">#2575C4</color>
+    <color name="accent_color">#F0A500</color>
+
+    <!-- 文字颜色 -->
+    <color name="text_primary">#1A1A2E</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="text_hint">#9CA3AF</color>
+
+    <!-- 背景 -->
+    <color name="bg_page">#F5F7FA</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_70">#B3FFFFFF</color>
+    <color name="white_40">#66FFFFFF</color>
+
+    <!-- Splash 背景 -->
+    <color name="splash_bg">#1A5FAB</color>
+
+    <!-- 状态颜色 -->
+    <color name="error_color">#E24B4A</color>
+    <color name="success_color">#1D9E75</color>
+
+    <!-- 分割线 -->
+    <color name="divider">#E5E7EB</color>
+</resources>

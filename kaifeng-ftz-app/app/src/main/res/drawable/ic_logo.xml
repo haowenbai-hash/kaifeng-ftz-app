@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Logo: 政务风格盾牌+星形 -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="96"
+    android:viewportHeight="96">
+
+    <!-- 外圆背景 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.15"
+        android:pathData="M48,4 C23.7,4 4,23.7 4,48 C4,72.3 23.7,92 48,92 C72.3,92 92,72.3 92,48 C92,23.7 72.3,4 48,4Z" />
+
+    <!-- 盾牌形状 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,18 L72,28 L72,50 C72,62 62,72 48,78 C34,72 24,62 24,50 L24,28 Z" />
+
+    <!-- 盾牌内部蓝色 -->
+    <path
+        android:fillColor="#1A5FAB"
+        android:pathData="M48,22 L68,31 L68,50 C68,60 59,69 48,74 C37,69 28,60 28,50 L28,31 Z" />
+
+    <!-- 五角星 -->
+    <path
+        android:fillColor="#F0A500"
+        android:pathData="M48,32 L50.5,39.5 L58,39.5 L52,44.5 L54.5,52 L48,47.5 L41.5,52 L44,44.5 L38,39.5 L45.5,39.5 Z" />
+
+    <!-- 底部文字横线装饰 -->
+    <rect
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.6"
+        android:x="36"
+        android:y="58"
+        android:width="24"
+        android:height="2"
+        android:rx="1" />
+
+    <rect
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.4"
+        android:x="40"
+        android:y="63"
+        android:width="16"
+        android:height="2"
+        android:rx="1" />
+
+</vector>
